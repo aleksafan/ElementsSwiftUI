@@ -9,7 +9,10 @@ import SwiftUI
 
 struct SignUpFirebase: View {
     var body: some View {
+        VStack{
         Text("Signing up")
+            Text("Hello!")
+        }
     }
 }
 
