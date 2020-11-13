@@ -13,6 +13,7 @@
 		192D0964255E22D4007628F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 192D0963255E22D4007628F6 /* Preview Assets.xcassets */; };
 		192D096F255E22D4007628F6 /* ElementsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 192D096E255E22D4007628F6 /* ElementsTests.swift */; };
 		192D097A255E22D4007628F6 /* ElementsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 192D0979255E22D4007628F6 /* ElementsUITests.swift */; };
+		192D098B255E23E5007628F6 /* SignUpFirebaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 192D098A255E23E5007628F6 /* SignUpFirebaseView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		192D0975255E22D4007628F6 /* ElementsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ElementsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		192D0979255E22D4007628F6 /* ElementsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementsUITests.swift; sourceTree = "<group>"; };
 		192D097B255E22D4007628F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		192D098A255E23E5007628F6 /* SignUpFirebaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpFirebaseView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				192D0960255E22D4007628F6 /* Assets.xcassets */,
 				192D0965255E22D4007628F6 /* Info.plist */,
 				192D0962255E22D4007628F6 /* Preview Content */,
+				192D098A255E23E5007628F6 /* SignUpFirebaseView.swift */,
 			);
 			path = Elements;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				192D095F255E22D2007628F6 /* ContentView.swift in Sources */,
 				192D095D255E22D2007628F6 /* ElementsApp.swift in Sources */,
+				192D098B255E23E5007628F6 /* SignUpFirebaseView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
